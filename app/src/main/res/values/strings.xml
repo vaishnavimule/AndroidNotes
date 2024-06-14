@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AndroidNotes</string>
+    <string name="file_name">AndroidNotes</string>
+    <string name="no_file">"No AndroidNotes file found "</string>
+    <string name="saved">Note Saved!</string>
+    <string name="about">About</string>
+    <string name="save">Save</string>
+    <string name="addNote">addNote</string>
+    <string name="enter_note">Enter note text</string>
+    <string name="title">Title</string>
+    <string name="enter_title">Enter note title</string>
+    <string name="no_note">Could not find Note</string>
+    <string name="multi_notes">Multi Notes</string>
+    <string name="_2022_avadhoot_kodag">© 2022, Avadhoot Kodag</string>
+    <string name="version_1_0">Version 1.0</string>
+</resources>
